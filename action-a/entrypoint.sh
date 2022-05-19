@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "echo Hello world my name is $INPUT_MY_NAME"
+sh -c "echo  $INPUT_MY_NAME did the tutorial and it worked.  Yup. a shell script ran and created this here output.  Whoa.  impressive?  Nope."
